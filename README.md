@@ -1,7 +1,11 @@
 ### Hi there 👋, I'm Tony
-I am going into my third year studying Business and Computer Science (BUCS) at the University of British Columbia. I am eager to collaborate and always to learn about anything. 
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tony-gu-/ "LinkedIn")
+<p>
+  <ul>
+    <li>I'm a Business and Computer Science student at the University of British Columbia</li>
+    <li>I'm a current Automation Engineering - Data Management Intern at <a href="https://suncor.com"> Suncor</a>🛢️</li>
+    <li>I was a Summer Student at <a href="https://CCPGE.com"> C&C PetroGas Engineering </a> 📈 </li>
+  </ul>
+</p>
 
 ### Projects worked on:
 - Contributed to nwHacks2024 project [CramCam][1]
@@ -11,3 +15,6 @@ I am going into my third year studying Business and Computer Science (BUCS) at t
   [1]: https://github.com/emilysxng/nwHacks-2024/commits?author=tonygu09
   [2]: https://github.com/zhujhj/bizchina/commits?author=tonygu09
   [3]: https://github.com/tonygu09/bizchina/commits?author=tonygu09
+
+### Contact me!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tony-gu-/ "LinkedIn")
