@@ -2,7 +2,8 @@
 <p>
   <ul>
     <li>I'm a Business and Computer Science student at the University of British Columbia</li>
-    <li>I'm a current Automation Engineering - Data Management Intern at <a href="https://suncor.com"> Suncor</a>🛢️</li>
+    <li>Currently designing websites for <a href="https://bucs.cus.ca/"> UBC BUCS Community Team </a>+ <a href="https://ubcbiomod.com/">UBC BIOMOD</a> 🌐</li>
+    <li>I'm was a Automation Engineering - Data Management Intern at <a href="https://suncor.com"> Suncor</a>🛢️</li>
     <li>I was a Summer Student at <a href="https://CCPGE.com"> C&C PetroGas Engineering </a> 📈 </li>
   </ul>
 </p>
