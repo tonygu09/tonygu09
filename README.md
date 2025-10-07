@@ -12,10 +12,12 @@
 - Contributed to nwHacks2024 project [CramCam][1]
 - Contributed to UBC BizChina project [BizChina Internal Tool][2]
 - Contributed to UBC BizChina website [BizChina Website Revamp][3]
+- Contributed to UBC BUCS website [BUCS Website Revamp][4]
 
   [1]: https://github.com/emilysxng/nwHacks-2024/commits?author=tonygu09
   [2]: https://github.com/zhujhj/bizchina/commits?author=tonygu09
   [3]: https://github.com/tonygu09/bizchina/commits?author=tonygu09
+  [4]: https://github.com/BUCSTeam/BUCS-Website/commits?author=tonygu09
 
 ### Contact me!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tony-gu-/ "LinkedIn")
