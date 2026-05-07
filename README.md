@@ -1,8 +1,7 @@
 ### 👋 Hi there, I'm Tony
 
 🎓 Business & Computer Science Student at the University of British Columbia  
-🤖 Currently building AI solutions at <a href="https://suncor.com">Suncor</a> 🛢️  
-🚀 VP of Technology at <a href="https://www.enactusubc.ca/">Enactus UBC</a>  
+🤖 Currently building AI solutions at <a href="https://suncor.com">Suncor</a> 🛢️
 📊 Former Automation Engineering – Data Management Intern at <a href="https://suncor.com">Suncor</a>  
 📈 Former Summer Student at <a href="https://CCPGE.com">C&C PetroGas Engineering</a>  
 
