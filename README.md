@@ -10,15 +10,6 @@
 
 ---
 
-### 🛠️ Projects & Contributions
-
-- 🧠 [CramCam (nwHacks 2024)](https://github.com/emilysxng/nwHacks-2024/commits?author=tonygu09)
-- 🏢 [UBC BizChina Internal Tool](https://github.com/zhujhj/bizchina/commits?author=tonygu09)
-- 🌐 [UBC BizChina Website Revamp](https://github.com/tonygu09/bizchina/commits?author=tonygu09)
-- 🌟 [UBC BUCS Website Revamp](https://github.com/BUCSTeam/BUCS-Website/commits?author=tonygu09)
-
----
-
 ### 🌐 Let's Connect!
 
 <p>
