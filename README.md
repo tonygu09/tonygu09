@@ -3,7 +3,7 @@
 ### 🚀 About Me
 
 - 🎓 **Business & Computer Science** @ [UBC](https://www.ubc.ca/)
-- 🤖 Building AI solutions @ [Suncor](https://suncor.com)🛢️
+- 🤖 Prev. Building AI solutions @ [Suncor](https://suncor.com)🛢️
 - 📊 Prev. Automation Engineering – Data Management Intern @ [Suncor](https://suncor.com)
 - 📈 Prev. Summer Student @ [C&C PetroGas Engineering](https://CCPGE.com)
 - 💡 Passionate about data and tech
